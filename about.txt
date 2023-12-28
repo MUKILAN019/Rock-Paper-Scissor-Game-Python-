@@ -1,0 +1,12 @@
+How to play?
+Two main Cases:              1.Player play
+                             2.Computer play
+
+R/r: Rock
+P/p:Paper
+S/s:Scissor
+
+There will be 10 trial (10 chance for user and 10 chance for computer)
+After User, each trial  computer trial starts. Always first chance to User.
+
+            ***This game Based on high score priority***
